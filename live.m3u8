@@ -1,4 +1,8 @@
 #EXTM3U
+#EXTINF:-1 group-logo="https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/646cb7478d9a3c0ee547bf6a/696cedd85329bc764868ebd0-asset-1/thumbnails/1780299016357.png" group-title="EVENT LIVE SPORTS", 22.00 VOLLY BALL EUROPA LEUGE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/
+https://live1.pro2cdnlive.com/live/channel80.m3u8
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/lk6-fdYvQ_PAHmPWMALOnT5fyJI=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8256288/original/090461000_1781152697-Jadwal_Pertandingan_Fifa_WORLD_CUP_2026-07.jpg" group-title="EVENT LIVE SPORTS", 02.00 WIB CANADA VS BOSNIA
 #KODIPROP:inputstream=inputstream.adaptive
