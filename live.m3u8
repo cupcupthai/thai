@@ -21,3 +21,9 @@ http://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/hWbxTGh1vEpzd_UWkRBoVUlhiiU=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8257231/original/043422900_1781232512-Jadwal_Pertandingan_Fifa_WORLD_CUP_2026-20.jpg" group-title="EVENT LIVE SPORTS", 12.00 WIB AUSTRALIA VS TURKI
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5f096c1f9e243b31ddc3bf4f5d88fc5f:27334536d6077737b321c64663ebf59d
+https://otte.live.fly.ww.aiv-cdn.net/iad-nitro/live/clients/dash-sd/enc/1a5vdd4i8j/out/v1/db14823b937045ac8b2b0effbcdded45/cenc-sd.mpd
