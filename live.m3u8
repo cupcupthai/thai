@@ -23,7 +23,6 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf5k/out/v1/10560d92577e4917973aa4624124ecd6/cenc-sd.mpd
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/hWbxTGh1vEpzd_UWkRBoVUlhiiU=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8257231/original/043422900_1781232512-Jadwal_Pertandingan_Fifa_WORLD_CUP_2026-20.jpg" group-title="EVENT LIVE SPORTS", 12.00 WIB AUSTRALIA VS TURKI
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=b6c1c527303bc577b85eb849cbab75d2:ec533d484c550a892ff162e4a5f4dbc3
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/enc/slc1dkcymj/out/v1/dd17af8835fe4bd087d1a4e359b635d7/cenc.mpd
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
