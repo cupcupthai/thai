@@ -1,24 +1,14 @@
 #EXTM3U
-#EXTINF:-1 group-logo="https://d10btucg50kagt.cloudfront.net/6666c6d0c7e10e0ee0be55f5/646cb7478d9a3c0ee547bf6a/696cedd85329bc764868ebd0-asset-1/thumbnails/1780299016357.png" group-title="EVENT LIVE SPORTS", 22.00 VOLLY BALL EUROPA LEUGE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://xl365.buzzscorelinez.com/ajax/chanel/type/5/link/channel86
-https://live3.procdnlive.com/livecdn/channel86.flv
+
 
 #EXTINF:-1 group-logo="https://static-web.prod.vidiocdn.com/_next/static/logo/vidio.png" tvg-logo="https://cdn1-production-images-kly.akamaized.net/lk6-fdYvQ_PAHmPWMALOnT5fyJI=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8256288/original/090461000_1781152697-Jadwal_Pertandingan_Fifa_WORLD_CUP_2026-07.jpg" group-title="EVENT LIVE SPORTS", 02.00 WIB CANADA VS BOSNIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7df8abb70d323cfaedde886793f3add0:4a31721d34351ef6a63f81d51bae45df
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6sc/out/v1/ba9e2a12afb54ab692464f9b7e72b0ba/cenc-sd.mpd
+#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6sc/out/v1/ba9e2a12afb54ab692464f9b7e72b0ba/cenc-sd.mpd
 
-#EXTINF:-1 group-logo="https://jakarta.akurat.co/_next/image?url=https%3A%2F%2Fakurat.sgp1.cdn.digitaloceanspaces.com%2Fimages%2F20260612-16798150173-0-53725.png&w=3840&q=100" group-title="EVENT LIVE SPORTS", 08.00 AMERIKA VS PARAGUAY
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7df8abb70d323cfaedde886793f3add0:4a31721d34351ef6a63f81d51bae45df
-https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6sc/out/v1/ba9e2a12afb54ab692464f9b7e72b0ba/cenc-sd.mpd
-
-#EXTINF:-1 group-logo="https://assets.telkomsel.com/public/2024-06/Australian%20Open%202024%20%282%29.png" group-title="EVENT LIVE SPORTS", 09.00 WIB BADMINTTON AUSTRALIA OPEN
+#EXTINF:-1 group-logo="https://thumbor.prod.vidiocdn.com/_VB1wnYWS9aCZPL3XPL2TkRDuDM=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5131836/f8ce48.jpg" group-title="EVENT LIVE SPORTS", 09.00 WIB BADMINTTON AUSTRALIA OPEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
