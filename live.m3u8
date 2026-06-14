@@ -8,14 +8,10 @@
 #KODIPROP:inputstream.adaptive.license_key=7df8abb70d323cfaedde886793f3add0:4a31721d34351ef6a63f81d51bae45df
 #https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6sc/out/v1/ba9e2a12afb54ab692464f9b7e72b0ba/cenc-sd.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/hWbxTGh1vEpzd_UWkRBoVUlhiiU=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8257231/original/043422900_1781232512-Jadwal_Pertandingan_Fifa_WORLD_CUP_2026-20.jpg" group-title="EVENT LIVE SPORTS", 12.00 WIB AUSTRALIA VS TURKI
-#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0J376zHVfvVrlMRfgMGsivIgvkDGIFAgZgQ&s" group-title="EVENT LIVE SPORTS", 12.10 WIB AUSTRALIA OPEN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
-https://tfwq3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hr0ZFNP-ZLbGzXIsfY46vrZLrx0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132069/e4e047.jpg" group-title="EVENT LIVE SPORTS",12.20 Ukraine vs Poland
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
@@ -62,15 +58,10 @@ https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20251115_123030_9f31cc8f.png" group-title="EVENT LIVE SPORTS",22.00 Germany vs France
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WwZkCGXJobF52ybCVyeP0Tl9IL8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132047/01cab1.jpg" group-title="EVENT LIVE SPORTS",22.00 Germany vs France
 #EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WwZkCGXJobF52ybCVyeP0Tl9IL8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132047/01cab1.jpg" group-title="EVENT LIVE SPORTS",[23h30] Concepción vs Deportes Limache
-#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s99piJ8hiAs/hq720.jpg?v=6a2d3e5b&sqp=CIi3uNEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA_vtqiRuJyoS21Fbn_TkiWpR-4ZA" group-title="EVENT LIVE SPORTS",00.00 Germany vs Curaçao
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
