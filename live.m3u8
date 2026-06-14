@@ -26,3 +26,7 @@ https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/hubonmgf
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0J376zHVfvVrlMRfgMGsivIgvkDGIFAgZgQ&s" group-title="EVENT LIVE SPORTS", 12.10 WIB AUSTRALIA OPEN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/138.0.0.0 Safari/537.36
+https://tfwq3gr4nhct1gwzdepjqgr5uommeqfsg17uff3hsnhuqcp1ghmucpf5gk.100ycdn.com/hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
