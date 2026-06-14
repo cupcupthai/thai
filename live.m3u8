@@ -68,3 +68,19 @@ https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/06/1280x720/1280-x-853-new-3_efc567a.jpg" group-title="EVENT LIVE SPORTS",03.00 BELANDA VS JEPANG
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2026/06/14/20260614-grafik-piala-dunia-2026-pantai-gading-vs-ekuador-01.jpg" group-title="EVENT LIVE SPORTS",06.00 PANTAI GADING VS EQUADOR
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/14/1781401413522_thuy_dien_vs_tunisia_prgg.jpeg" group-title="EVENT LIVE SPORTS",09.00 SWEDIA VS TUNISIA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7df8abb70d323cfaedde886793f3add0:4a31721d34351ef6a63f81d51bae45df
+https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6sc/out/v1/ba9e2a12afb54ab692464f9b7e72b0ba/cenc-sd.mpd
