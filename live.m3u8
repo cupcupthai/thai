@@ -72,43 +72,8 @@ https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125455_9f31cc8f.png" group-title="EVENT LIVE SPORTS",00.00 Germany vs Curaçao
-#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20250924_202726_2f0f7164.png" group-title="EVENT LIVE SPORTS",[00h30] Bulgaria vs Serbia
-#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20251115_123030_666d88b2.png" group-title="EVENT LIVE SPORTS",[01h30] Canada vs Turkey
-#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_125507_424d6db0.png" group-title="EVENT LIVE SPORTS",[03h00] Netherlands vs Japan
-#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.api-sports.io/volley/teams/2198.png" group-title="EVENT LIVE SPORTS",[04h00] Brazil vs Argentina
-#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoibo/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20251115_123054_e67768f5.png" group-title="EVENT LIVE SPORTS",[05h00] USA vs Italy
-#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoigia/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/uploads/20250623_132759_08d32594.png" group-title="EVENT LIVE SPORTS",[06h00] Ivory Coast vs Ecuador
-#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
-
-#EXTINF:-1 tvg-logo="https://media.chuoichientv.com/media/20250825_180323_118bdf95.png" group-title="EVENT LIVE SPORTS",[09h00] Sweden vs Tunisia
-#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/max/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s99piJ8hiAs/hq720.jpg?v=6a2d3e5b&sqp=CIi3uNEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA_vtqiRuJyoS21Fbn_TkiWpR-4ZA" group-title="EVENT LIVE SPORTS",00.00 Germany vs Curaçao
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
