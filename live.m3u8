@@ -11,7 +11,7 @@
 #EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0J376zHVfvVrlMRfgMGsivIgvkDGIFAgZgQ&s" group-title="EVENT LIVE SPORTS", 12.10 WIB AUSTRALIA OPEN
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/hr0ZFNP-ZLbGzXIsfY46vrZLrx0=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132069/e4e047.jpg" group-title="EVENT LIVE SPORTS",12.20 Ukraine vs Poland
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
@@ -63,7 +63,7 @@ https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s99piJ8hiAs/hq720.jpg?v=6a2d3e5b&sqp=CIi3uNEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA_vtqiRuJyoS21Fbn_TkiWpR-4ZA" group-title="EVENT LIVE SPORTS",00.00 Germany vs Curaçao
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s99piJ8hiAs/hq720.jpg?v=6a2d3e5b&sqp=CIi3uNEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA_vtqiRuJyoS21Fbn_TkiWpR-4ZA" group-title="EVENT LIVE SPORTS",00.00 JERMAN VS CURACAO
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
