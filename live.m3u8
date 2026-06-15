@@ -13,27 +13,23 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/WwZkCGXJobF52ybCVyeP0Tl9IL8=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5132047/01cab1.jpg" group-title="EVENT LIVE SPORTS",22.00 Germany vs France
-#EXTVLCOPT:http-referrer=https://live.chuoichientv.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://gckc0525.edgemaxcdn.org/live/chuoitim/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/s99piJ8hiAs/hq720.jpg?v=6a2d3e5b&sqp=CIi3uNEG-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLA_vtqiRuJyoS21Fbn_TkiWpR-4ZA" group-title="EVENT LIVE SPORTS",00.00 JERMAN VS CURACAO
+#EXTINF:-1 tvg-logo="https://cdn.pdiperjuanganbali.id/media/images/2026/06/116a2fb4716e198..jpg?location=1&width=&height=&quality=90&fit=1" group-title="EVENT LIVE SPORTS",11.00 WIB SPANYOL VS CAPE VERDE
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/06/1280x720/1280-x-853-new-3_efc567a.jpg" group-title="EVENT LIVE SPORTS",03.00 BELANDA VS JEPANG
+#EXTINF:-1 tvg-logo="https://www.headline.co.id/wp-content/uploads/2026/06/Prediksi-Belgia-vs-Mesir-Piala-Dunia-2026-Duel-Sengit-yang-Bisa-Menentukan-Juara-Grup-G.jpg" group-title="EVENT LIVE SPORTS",02.00 WIB BELGIA VS MESIR
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2026/06/14/20260614-grafik-piala-dunia-2026-pantai-gading-vs-ekuador-01.jpg" group-title="EVENT LIVE SPORTS",06.00 PANTAI GADING VS EQUADOR
+#EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2026/06/15/2026-0615-grafik-piala-dunia-arab-saudi-vs-uruguay-01.jpg" group-title="EVENT LIVE SPORTS",05.00 WIB ARAB SAUDI VS URUGUAY
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/14/1781401413522_thuy_dien_vs_tunisia_prgg.jpeg" group-title="EVENT LIVE SPORTS",09.00 SWEDIA VS TUNISIA
+#EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2026/06/15/2026-0615-grafik-piala-dunia-arab-saudi-vs-uruguay-01.jpg" group-title="EVENT LIVE SPORTS",08.00 WIB IRAN VS SELANDIA BARU
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8afa490e1640be969729fb459182e4ec:6f129820cdd5b6978a98c604c72cf05b
 https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/kp7qfx2tly/out/v1/bbfb730b45b74d4ea875d75786ea3f13/cenc-sd.mpd
