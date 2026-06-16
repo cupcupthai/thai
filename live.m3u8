@@ -14,12 +14,12 @@
 #https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.pdiperjuanganbali.id/media/images/2026/06/116a2fb4716e198..jpg?location=1&width=&height=&quality=90&fit=1" group-title="EVENT LIVE SPORTS",23.00 WIB SPANYOL VS CAPE VERDE
+#EXTINF:-1 tvg-logo="https://jubirtvnews.com/wp-content/uploads/2026/06/Prancis-vs-Senegal.png" group-title="EVENT LIVE SPORTS",02.00 WIB FRANCIS VS SENEGAL
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.headline.co.id/wp-content/uploads/2026/06/Prediksi-Belgia-vs-Mesir-Piala-Dunia-2026-Duel-Sengit-yang-Bisa-Menentukan-Juara-Grup-G.jpg" group-title="EVENT LIVE SPORTS",02.00 WIB BELGIA VS MESIR
+#EXTINF:-1 tvg-logo="https://cdn.pdiperjuanganbali.id/media/images/2026/06/116a313c8dc8556..jpg?location=1&width=&height=&quality=90&fit=1" group-title="EVENT LIVE SPORTS",05.00 WIB IRAK VS NORWEGIA
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
@@ -29,7 +29,12 @@ https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2026/06/15/2026-0615-grafik-piala-dunia-iran-vs-selandia-baru-01.jpg" group-title="EVENT LIVE SPORTS",08.00 WIB IRAN VS SELANDIA BARU
+#EXTINF:-1 tvg-logo="https://theanalyst.com/wp-content/uploads/2026/06/argentina-v-algeria-preview-2026-world-cup.png" group-title="EVENT LIVE SPORTS",08.00 WIB ARGENTINA VS ALGERIA
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://theanalyst.com/wp-content/uploads/2026/06/austria-vs-jordan-prediction-world-cup-2026-opta.png" group-title="EVENT LIVE SPORTS",11.00 WIB AUSTRIA VS JORDAN
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
