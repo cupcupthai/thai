@@ -14,22 +14,22 @@
 #https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://img.bolaskor.com/media/c2/a1/e2/c2a1e2ca91a20af72ccb2d9a6eec20cf.JPG" group-title="EVENT LIVE SPORTS",00.00 WIB BELANDA VS SWEDIA
+#EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2026/06/20/1000246270.jpg" group-title="EVENT LIVE SPORTS",23.00 WIB SPANYOL VS ARAB SAUDI
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.pdiperjuanganbali.id/media/images/2026/06/116a367d49a14c2..jpg?location=1&width=&height=&quality=90&fit=1" group-title="EVENT LIVE SPORTS",03.00 JERMAN VS PANTAI GADING
+#EXTINF:-1 tvg-logo="https://sport.truestory.id/wp-content/uploads/sites/4/2026/06/WhatsApp-Image-2026-06-20-at-07.35.44.jpeg" group-title="EVENT LIVE SPORTS",02.00 BELGIA VS IRAN
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdn.medcom.id/dynamic/content/2026/06/20/1826470/1Ai8MyUsLj.jpg?w=700" group-title="EVENT LIVE SPORTS",07.00 WIB EKUADOR VS CARACAO
+#EXTINF:-1 tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/06/Uruguay-vs-tanjung-Verde.jpg" group-title="EVENT LIVE SPORTS",05.00 WIB URUGUAY VS TANJUNG VERDE
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.bolaskor.com/media/eb/60/05/eb60052ffc777add30e5e40a0da8a7c2.jpg" group-title="EVENT LIVE SPORTS",11.00 WIB JEPANG VS TUNISIA
+#EXTINF:-1 tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1294/728/16x9zea-egypt.jpg?ve=1&tl=1" group-title="EVENT LIVE SPORTS",08.00 WIB NEW ZELAND VS MESIR
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
