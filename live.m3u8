@@ -14,22 +14,22 @@
 #https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.antaranews.com/cache/1200x800/2026/06/20/1000246270.jpg" group-title="EVENT LIVE SPORTS",23.00 WIB SPANYOL VS ARAB SAUDI
+#EXTINF:-1 tvg-logo="https://cdn.pdiperjuanganbali.id/media/images/2026/06/116a347aad2e47d..jpg?location=1&width=1200&height=674&quality=100" group-title="EVENT LIVE SPORTS",00.00 WIB ARGENTINA VS AUSTRIA
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://sport.truestory.id/wp-content/uploads/sites/4/2026/06/WhatsApp-Image-2026-06-20-at-07.35.44.jpeg" group-title="EVENT LIVE SPORTS",02.00 BELGIA VS IRAN
+#EXTINF:-1 tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/06/Prancis-Irak.jpg" group-title="EVENT LIVE SPORTS",04.00 FRANCIS VS IRAK
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/06/Uruguay-vs-tanjung-Verde.jpg" group-title="EVENT LIVE SPORTS",05.00 WIB URUGUAY VS TANJUNG VERDE
-#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://cdnmedia.tutur.co.id/images/2026/06/image1-46-1500x1000.jpg" group-title="EVENT LIVE SPORTS",07.00 WIB NORWEGIA VS SENEGAL
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://a57.foxsports.com/statics.foxsports.com/www.foxsports.com/content/uploads/2026/06/1294/728/16x9zea-egypt.jpg?ve=1&tl=1" group-title="EVENT LIVE SPORTS",08.00 WIB NEW ZELAND VS MESIR
-#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://theanalyst.com/wp-content/uploads/2026/06/jordan-vs-algeria-prediction-opta-supercomputer.png" group-title="EVENT LIVE SPORTS",10.000 WIB JORDAN VS ALGERIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd
