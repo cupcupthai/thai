@@ -14,22 +14,22 @@
 #https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="https://cdn.pdiperjuanganbali.id/media/images/2026/06/116a347aad2e47d..jpg?location=1&width=1200&height=674&quality=100" group-title="EVENT LIVE SPORTS",00.00 WIB ARGENTINA VS AUSTRIA
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2026/06/20260623153059-portugal-vs-uzbekistan.jpg" group-title="EVENT LIVE SPORTS",00.00 WIB PORTUGAL VS UZBEKISTAN
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/06/Prancis-Irak.jpg" group-title="EVENT LIVE SPORTS",04.00 FRANCIS VS IRAK
+#EXTINF:-1 tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/06/Prancis-Irak.jpg" group-title="EVENT LIVE SPORTS",03.00 INGGRIS VS GHANA
 #EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
 #EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdnmedia.tutur.co.id/images/2026/06/image1-46-1500x1000.jpg" group-title="EVENT LIVE SPORTS",07.00 WIB NORWEGIA VS SENEGAL
+#EXTINF:-1 tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/23/1782188968969_lich-su-doi-dau-giua-panama-vs-croatia-lan-dau-cham-tran-dai-dien-chau-au-quyet-tim-chien-thang.jpeg" group-title="EVENT LIVE SPORTS",06.00 WIB PANAMA VS KROASIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
 https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://theanalyst.com/wp-content/uploads/2026/06/jordan-vs-algeria-prediction-opta-supercomputer.png" group-title="EVENT LIVE SPORTS",10.000 WIB JORDAN VS ALGERIA
+#EXTINF:-1 tvg-logo="https://theanalyst.com/wp-content/uploads/2026/06/colombia-vs-dr-congo-prediction-and-preview.png" group-title="EVENT LIVE SPORTS",09.000 WIB COLOMBIA VS CONGO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
 https://dai.google.com/linear/dash/pa/event/antwa0EiQm2PoHtx4rBtVw/stream/0c8b0b72-7a38-4852-ab2e-3fd88cbe71cc:GRQ/manifest.mpd
