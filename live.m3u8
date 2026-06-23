@@ -15,14 +15,14 @@
 
 
 #EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2026/06/20260623153059-portugal-vs-uzbekistan.jpg" group-title="EVENT LIVE SPORTS",00.00 WIB PORTUGAL VS UZBEKISTAN
-#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://timexkupang.fajar.co.id/wp-content/uploads/2026/06/Prancis-Irak.jpg" group-title="EVENT LIVE SPORTS",03.00 INGGRIS VS GHANA
-#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f8b207c10f3f76aeba32a360ec52b9e4:afad49d20eb39670e93e371c1d669921
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/3gg2jnixjn/out/v1/e1840e01f3f14563b66bbb944d5cc54c/cenc.mpd
 
 #EXTINF:-1 tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/06/23/1782188968969_lich-su-doi-dau-giua-panama-vs-croatia-lan-dau-cham-tran-dai-dien-chau-au-quyet-tim-chien-thang.jpeg" group-title="EVENT LIVE SPORTS",06.00 WIB PANAMA VS KROASIA
 #KODIPROP:inputstream.adaptive.license_type=clearkey
