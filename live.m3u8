@@ -41,14 +41,14 @@ https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 https://andro.2385437.xyz/checklist/androstreamliveexn1.m3u8
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/apzr651775058355.jpg/medium" group-title="EVENT LIVE SPORTS",08.00 WIB AFRIKA SELATAN VS KORSEL
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-#EXTVLCOPT:http-origin=https://www.soccertvhd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d816287e21496989eae1312925a423c5:00da00f13180e7e6cd5ce87d1c974e8d
+https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/f96c00e2-8d18-475e-a5a5-3faa64d7819a:BRU/manifest.mpd
+
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/70pe2h1775058384.jpg/medium" group-title="EVENT LIVE SPORTS",08.00 WIB CEKO VS MEKSIKO
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-#EXTVLCOPT:http-origin=https://www.soccertvhd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://andro.2385437.xyz/checklist/androstreamliveexn1.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=433ffba670963e70857859a9dff4be04:51ede3a821229fe81e71282c8eff80e3
+https://origin-m6web.live.6cloud.fr/out/v1/6play/6play-m6/cmaf_cenc00/dash-short-hd.mpd
+
 
