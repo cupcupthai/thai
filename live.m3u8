@@ -47,9 +47,8 @@ https://dai.google.com/linear/dash/pa/event/oPeAYQs9T9yTHS98aR1EjQ/stream/f96c00
 
 
 #EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/70pe2h1775058384.jpg/medium" group-title="EVENT LIVE SPORTS",08.00 WIB CEKO VS MEKSIKO
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-#EXTVLCOPT:http-origin=https://www.soccertvhd.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2cde091f1e4675c82d65498bd6ba0e65:29f2aeb97a908466177c56fc28fe083f
+https://zap-live-ott.izzigo.tv/out/u/dash/CDMX/AZTECA-7-HD/default.mpd
 
 
