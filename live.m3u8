@@ -13,40 +13,40 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/bgspfq1775058358.jpg/medium" group-title="EVENT LIVE SPORTS",03.00 WIB JERMAN VS EQUADOR
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/g2uph61775058364.jpg/medium" group-title="EVENT LIVE SPORTS",02.00 WIB FRANCIS VS NORWEGIA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/2i6gsa1775058357.jpg/small" group-title="EVENT LIVE SPORTS",03.00 WIB PANTAI GADING VS CURACAO
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/duwfkg1775058387.jpg/small" group-title="EVENT LIVE SPORTS",02.00 WIB SENEGAL VS IRAK
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-#EXTVLCOPT:http-origin=https://www.soccertvhd.com/
+#EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
+https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/4no2lo1775058385.jpg/small" group-title="EVENT LIVE SPORTS",06.00 WIB JEPANG VS SWEDIA
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b2zc0v1775058365.jpg/medium" group-title="EVENT LIVE SPORTS",07.00 WIB URUGUAY VS SPANYOL
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/zd5Ok2euYjfJXq2CBdQPp797d3A=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8404922/original/060407200_1782287457-Jadwal_Pertandingan_Fifa_WORLD_CUP_2026-36.jpg" group-title="EVENT LIVE SPORTS",06.00 WIB BELANDA VS TUNISIA
+#EXTINF:-1 tvg-logo="https://img.bolaskor.com/media/e3/f8/19/e3f81953812ee45169f18b6b678d67a2.jpg" group-title="EVENT LIVE SPORTS",07.00 WIB CAPE VERDE VS SAUDI ARABIA
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-#EXTVLCOPT:http-origin=https://www.soccertvhd.com/
+#EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
+https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
 
-#EXTINF:-1 tvg-logo="https://img.bolaskor.com/media/af/ca/03/afca037ad68306bff77b9db2c0a73e62.png" group-title="EVENT LIVE SPORTS",09.00 WIB PARAGUAY VS AUSTRALIA
+#EXTINF:-1 tvg-logo="https://img.bolaskor.com/media/44/ea/85/44ea85b69788660ba7ea0cb52158bcd3.png" group-title="EVENT LIVE SPORTS",10.00 WIB MESIR VS IRAN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
 
 
-#EXTINF:-1 tvg-logo="https://sport.truestory.id/wp-content/uploads/sites/4/2026/06/WhatsApp-Image-2026-06-24-at-03.30.58.jpeg" group-title="EVENT LIVE SPORTS",09.00 WIB TURKY VS USA
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/06/1280x720/presiden-selandia-ba_ef43590.jpg" group-title="EVENT LIVE SPORTS",10.00 WIB BELGIA VS NEW ZELAND
 #EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-#EXTVLCOPT:http-origin=https://www.soccertvhd.com/
+#EXTVLCOPT:http-origin=https://www.soccertvhd.com
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://andro.226503.xyz/checklist/androstreamliveexn2.m3u8
+https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
 
 
