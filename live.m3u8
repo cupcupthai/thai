@@ -13,40 +13,42 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/g2uph61775058364.jpg/medium" group-title="EVENT LIVE SPORTS",02.00 WIB FRANCIS VS NORWEGIA
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/duwfkg1775058387.jpg/small" group-title="EVENT LIVE SPORTS",02.00 WIB SENEGAL VS IRAK
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-#EXTVLCOPT:http-origin=https://www.soccertvhd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
-
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/b2zc0v1775058365.jpg/medium" group-title="EVENT LIVE SPORTS",07.00 WIB URUGUAY VS SPANYOL
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
-
-#EXTINF:-1 tvg-logo="https://img.bolaskor.com/media/e3/f8/19/e3f81953812ee45169f18b6b678d67a2.jpg" group-title="EVENT LIVE SPORTS",07.00 WIB CAPE VERDE VS SAUDI ARABIA
-#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
-#EXTVLCOPT:http-origin=https://www.soccertvhd.com
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
-https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
-
-#EXTINF:-1 tvg-logo="https://img.bolaskor.com/media/44/ea/85/44ea85b69788660ba7ea0cb52158bcd3.png" group-title="EVENT LIVE SPORTS",10.00 WIB MESIR VS IRAN
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
-https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/dash/.mpd
-
-
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/06/1280x720/presiden-selandia-ba_ef43590.jpg" group-title="EVENT LIVE SPORTS",10.00 WIB BELGIA VS NEW ZELAND
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/enrwox1775058370.jpg/medium" group-title="EVENT LIVE SPORTS",04.00 WIB PANAMA VS INGGRIS
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/fwxopf1775058368.jpg/medium" group-title="EVENT LIVE SPORTS",04.00 WIB GHANA VS KROASIA
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+#EXTVLCOPT:http-origin=https://www.soccertvhd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/u6lsyr1775058367.jpg/medium" group-title="EVENT LIVE SPORTS",06.30 WIB COLOMBIA VS PORTUGAL
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/pibln91775058388.jpg/medium" group-title="EVENT LIVE SPORTS",06.30 WIB CONGO VS UZBEKISTAN
+#EXTVLCOPT:http-referrer=https://www.soccertvhd.com/
+#EXTVLCOPT:http-origin=https://www.soccertvhd.com
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://andro.2385437.xyz/checklist/androstreamlivetrts.m3u8
+
+#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/aejlsx1775058369.jpg/medium" group-title="EVENT LIVE SPORTS",09.00 WIB YORDANIA VS ARGENTINA
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-origin=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.pro/EU/HDWC3/index.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/06/1280x720/presiden-selandia-ba_ef43590.jpg" group-title="EVENT LIVE SPORTS",09.00 WIB ALGERIA VS AUSTRALIA
+#EXTVLCOPT:http-referrer=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-origin=https://instream.click/jwp-eu.php?stream=HDWC1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/134.0.0.0 Safari/537.36 Edg/134.0.0.0
+https://instreams.pro/EU/HDWC1/index.m3u8
 
