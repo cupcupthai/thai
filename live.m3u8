@@ -15,7 +15,7 @@ https://live.maalasror.sch.id/hls/alasror.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://r2.thesportsdb.com/images/media/event/thumb/enrwox1775058370.jpg/medium" group-title="EVENT LIVE SPORTS",02.00 WIB AFRIKA SELATAN VS CANADA
+#EXTINF:-1 tvg-logo="https://radarmedan.com/asset/foto_berita/Afsel_vs_Kanada.jpg" group-title="EVENT LIVE SPORTS",02.00 WIB AFRIKA SELATAN VS CANADA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
