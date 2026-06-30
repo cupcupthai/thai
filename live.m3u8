@@ -12,20 +12,20 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/06/1280x720/prediksi-brasil-vs-j_8ce8a45.jpg" group-title="EVENT LIVE SPORTS",00.00 WIB BRAZIL VS JEPANG
+#EXTINF:-1 tvg-logo="https://cdn.medcom.id/dynamic/content/2026/06/30/1828182/jHsFPibrGD.jpg?w=700" group-title="EVENT LIVE SPORTS",00.00 WIB PANTAI GADING VS NORWEGIA
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://jubirtvnews.com/wp-content/uploads/2026/06/Prediksi-Jerman-vs-Paraguay-di-Babak-32-Besar-Piala-Dunia-2026-Ujian-Der-Panzer-Sebagai-Favorit-Juara.jpg" group-title="EVENT LIVE SPORTS",03.30 WIB JERMAN VS PARAGUAY
+#EXTINF:-1 tvg-logo="https://palopopos.fajar.co.id/wp-content/uploads/2026/06/Prancis-vs-swedia.png" group-title="EVENT LIVE SPORTS",04.00 WIB PRANCIS VS SEWDIA
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=adca25b8779e4168a0cd710f59f61ccf:be5383ed3cd8079f4ffe78ad067f476a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:151.0) Gecko/20100101 Firefox/151.0
 https://c9851ec-rbm-hilv-fsly.cdn.redbee.live/L26/6b640fa2/a765d074.isml/.mpd
 
-#EXTINF:-1 tvg-logo="https://www.radarmedan.com/asset/foto_berita/Belanda_vs_Maroko.jpg" group-title="EVENT LIVE SPORTS",08.00 WIB BELANDA VS MAROKO
+#EXTINF:-1 tvg-logo="https://cdnmedia.beritajatim.com/images/2026/06/meksiko-v-Ekuador.png" group-title="EVENT LIVE SPORTS",08.00 WIB MEKSIKO VS EQUADOR
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
