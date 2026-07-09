@@ -1,0 +1,25 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn1-production-images-kly.akamaized.net/zdDBcRiXmZyXpwtSn1qlS6Wlwjk=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/8257946/original/014544100_1781265853-Jadwal_Pertandingan_Fifa_WORLD_CUP_2026-08.jpg" group-title="EVENT LIVE SPORTS", 02.00 WIB QATAR VS SWIS
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7df8abb70d323cfaedde886793f3add0:4a31721d34351ef6a63f81d51bae45df
+#https://otte.live.fly.ww.aiv-cdn.net/gru-nitro/live/clients/dash-sd/enc/l0qqwxo6sc/out/v1/ba9e2a12afb54ab692464f9b7e72b0ba/cenc-sd.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0J376zHVfvVrlMRfgMGsivIgvkDGIFAgZgQ&s" group-title="EVENT LIVE SPORTS", 12.10 WIB AUSTRALIA OPEN
+#EXTVLCOPT:http-referrer=https://sv2.hoiquan3.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+#https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdnmedia.beritajatim.com/images/2026/07/Argentina-v-Mesir.jpg" group-title="EVENT LIVE SPORTS",23.00 WIB ARGENTINA VS MESIR
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/07/1783394259216_thuy_si_vs_colombia_heyk.jpeg" group-title="EVENT LIVE SPORTS",03.00 WIB SWIS VS COLOMBIA
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
