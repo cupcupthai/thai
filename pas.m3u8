@@ -12,6 +12,23 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BMjMK6P8kRjb9v22nL3l79mF9hw=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/96649937/ProfileBannerVNL-e2e354bd7de07a0d.jpg" group-title="EVENT LIVE SPORTS", 17:20 WIB VNL : Jepang vs Turki
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live1.pro2cdnlive.com/live/channel82.m3u8
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BMjMK6P8kRjb9v22nL3l79mF9hw=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/96649937/ProfileBannerVNL-e2e354bd7de07a0d.jpg" group-title="EVENT LIVE SPORTS", 19:00 WIB VNL : China vs Republik Dominika
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live1.pro2cdnlive.com/live/channel83.m3u8
+
+
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/BMjMK6P8kRjb9v22nL3l79mF9hw=/640x198/filters:quality(70)/vidio-web-prod-user/uploads/user/cover/96649937/ProfileBannerVNL-e2e354bd7de07a0d.jpg" group-title="EVENT LIVE SPORTS", 21:30 WIB VNL : Bulgaria vs Prancis
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
+https://live2.pro2cdnlive.com/live/channel33.m3u8
+
 #EXTINF:-1 tvg-logo="https://cdnmedia.beritajatim.com/images/2026/07/Spanyol-v-belgia-1024x765.jpg" group-title="EVENT LIVE SPORTS",02.00 WIB SPANYOL VS BELGIA CH1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
