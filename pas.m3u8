@@ -29,14 +29,27 @@ https://live1.pro2cdnlive.com/live/channel83.m3u8
 #EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
 https://live2.pro2cdnlive.com/live/channel33.m3u8
 
-#EXTINF:-1 tvg-logo="https://cdnmedia.beritajatim.com/images/2026/07/Spanyol-v-belgia-1024x765.jpg" group-title="EVENT LIVE SPORTS",02.00 WIB SPANYOL VS BELGIA CH1 
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2026/07/20260711091456-norwegia-vs-inggris.jpg?quality=60" group-title="EVENT LIVE SPORTS",04.00 WIB NORWEGIA VS INGGRIS CH1 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
-#EXTINF:-1 tvg-logo="https://cdnmedia.beritajatim.com/images/2026/07/Spanyol-v-belgia-1024x765.jpg" group-title="EVENT LIVE SPORTS",02.00 WIB SPANYOL VS BELGIA CH2
+#EXTINF:-1 tvg-logo="https://imgcdn.espos.id/@espos/images/2026/07/20260711091456-norwegia-vs-inggris.jpg?quality=60" group-title="EVENT LIVE SPORTS",04.00 WIB NORWEGIA VS INGGRIS CH2
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/07/10/4289596295.jpg" group-title="EVENT LIVE SPORTS",08.00 WIB ARGENTINA VS SWIS CH1 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://assets.pikiran-rakyat.com/crop/0x0:0x0/720x0/webp/photo/2026/07/10/4289596295.jpg" group-title="EVENT LIVE SPORTS",08.00 WIB ARGENTINA VS SWIS CH2
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
