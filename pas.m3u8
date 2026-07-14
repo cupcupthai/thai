@@ -16,14 +16,38 @@
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", VNL 2026
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://imgcdn.espos.id/@espos/images/2026/07/20260714091705-head-to-head-prancis-vs-spanyol.jpg?quality=60", 02.00 WIB  SPANYOL VS PRANCIS CH1 (RPD)
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://media.suara.com/pictures/1600x840/2026/07/12/99514-argentina-vs-inggris.jpg", 02.00 WIB  INGGRIS VS ARGENTINA CH1 (RPD)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
 http://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://imgcdn.espos.id/@espos/images/2026/07/20260714091705-head-to-head-prancis-vs-spanyol.jpg?quality=60", 02.00 WIB  SPANYOL VS PRANCIS CH2 (FOX)
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://media.suara.com/pictures/1600x840/2026/07/12/99514-argentina-vs-inggris.jpg", 02.00 WIB  INGGRIS VS ARGENTINA CH2 (FOX)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://imgcdn.espos.id/@espos/images/2026/07/20260714091705-head-to-head-prancis-vs-spanyol.jpg?quality=60", 02.00 WIB  SPANYOL VS PRANCIS CH3 (TVRI)
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://media.suara.com/pictures/1600x840/2026/07/12/99514-argentina-vs-inggris.jpg", 02.00 WIB  INGGRIS VS ARGENTINA CH3 (TVRI)
 http://157.15.187.3:25092/hls/63/63.m3u8
+
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/mJlclBBtBXkTtoM9JxiSFQEsQGI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2026-round-of-32-court-1-c50cd3.jpg", 07.00 WIB  JAPAN OPEN COURT 1
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=18249&type=drm
+https://tvratu.my.id/vid/index.mpd?id=18249&type=dash
+
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/mJlclBBtBXkTtoM9JxiSFQEsQGI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2026-round-of-32-court-1-c50cd3.jpg", 07.00 WIB  JAPAN OPEN COURT 2
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=18250&type=drm
+https://tvratu.my.id/vid/index.mpd?id=18250&type=dash
+
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/mJlclBBtBXkTtoM9JxiSFQEsQGI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2026-round-of-32-court-1-c50cd3.jpg", 07.00 WIB  JAPAN OPEN COURT 3
+#EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://tvratu.my.id/vid/index.mpd?id=18252&type=drm
+https://tvratu.my.id/vid/index.mpd?id=18252&type=dash
