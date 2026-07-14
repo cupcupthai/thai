@@ -26,5 +26,8 @@ http://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
 https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://imgcdn.espos.id/@espos/images/2026/07/20260714091705-head-to-head-prancis-vs-spanyol.jpg?quality=60", 02.00 WIB  SPANYOL VS PRANCIS CH3 (TVRI)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://img-80t.pages.dev/fola.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=618880fd141330378cf6aff5d48a252c:835e5fc97bfec870d8ac7e3d145e14ad
+https://tencent-css.byteplaycdn.com/0ceb9234063adc03f3709828cd34d715/6A57290F/Content/DASH_ENC2/Live/channel(tselwc2)/master.mpd
