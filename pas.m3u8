@@ -13,15 +13,18 @@
 #https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS6" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9f9yKUJYrljUmC4M0QcFm9cyi0SCXhycALrVWTF8gSQ&s=10", 18:00 WIB China vs Hong Kong
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live1.pro2cdnlive.com/live/channel80.m3u8
-
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS9f9yKUJYrljUmC4M0QcFm9cyi0SCXhycALrVWTF8gSQ&s=10", 18:30 WIB Japan vs Australia
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-#EXTVLCOPT:http-referrer=https://xl365.livebytexscorez.com/
-https://live2.pro2cdnlive.com/live/channel33.m3u8
-
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", VNL 2026
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://imgcdn.espos.id/@espos/images/2026/07/20260714091705-head-to-head-prancis-vs-spanyol.jpg?quality=60", 02.00 WIB  SPANYOL VS PRANCIS CH1 (RPD)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+http://stream.ads.ottera.tv/playlist.m3u8?network_id=15601
+
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://imgcdn.espos.id/@espos/images/2026/07/20260714091705-head-to-head-prancis-vs-spanyol.jpg?quality=60", 02.00 WIB  SPANYOL VS PRANCIS CH2 (FOX)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
+https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://imgcdn.espos.id/@espos/images/2026/07/20260714091705-head-to-head-prancis-vs-spanyol.jpg?quality=60", 02.00 WIB  SPANYOL VS PRANCIS CH3 (TVRI)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+https://img-80t.pages.dev/fola.m3u8
