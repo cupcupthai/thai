@@ -18,7 +18,6 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://media.suara.com/pictures/1600x840/2026/07/12/99514-argentina-vs-inggris.jpg", 02.00 WIB  INGGRIS VS ARGENTINA CH1 (TVRI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-#EXTVLCOPT:http-referrer=https://live.maalasror.sch.id/
 https://drive.google.com/uc?export=download&id=14oMEit0QyJY5u5bGXRz9nMeFmcpnPlP-&usp
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://media.suara.com/pictures/1600x840/2026/07/12/99514-argentina-vs-inggris.jpg", 02.00 WIB  INGGRIS VS ARGENTINA CH2 (FOX)
