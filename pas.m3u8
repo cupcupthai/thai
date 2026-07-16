@@ -18,17 +18,17 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://media.suara.com/pictures/1600x840/2026/07/12/99514-argentina-vs-inggris.jpg", 02.00 WIB  INGGRIS VS ARGENTINA CH1 (TVRI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
-https://sdn9sadaniang.my.id/tvri.m3u8
+#https://sdn9sadaniang.my.id/tvri.m3u8
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://media.suara.com/pictures/1600x840/2026/07/12/99514-argentina-vs-inggris.jpg", 02.00 WIB  INGGRIS VS ARGENTINA CH2 (FOX)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=f6564ec2aee819046328a0e153be574d:ff46a8a1031eb27ef22576a077c98ab7
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
+#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/ajfoeddkbz/out/v1/b78800b9b2304879b15843f455836829/cenc.mpd
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://media.suara.com/pictures/1600x840/2026/07/12/99514-argentina-vs-inggris.jpg", 02.00 WIB  INGGRIS VS ARGENTINA CH3 (TSN1)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=14eeabf30c14b7fbf3008c03099ce011:17d2ac8dbc5429bd70af3433aa12158d
-https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
+#https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1/69a2a7041395406b970598f61680e7cf/cenc.mpd
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/mJlclBBtBXkTtoM9JxiSFQEsQGI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2026-round-of-32-court-1-c50cd3.jpg", 07.00 WIB  JAPAN OPEN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
