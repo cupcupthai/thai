@@ -12,9 +12,11 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 #https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
 
-
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", VNL 2026
 https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
+
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTPQO9dsOgy9cDyf6U3Tu2n2KsKJhUhV7WhxQ&s", VNL 2026 CH2
+https://andro.evrenesoglu57.click/checklist/androstreamlivess1.m3u8
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://media.suara.com/pictures/1600x840/2026/07/12/99514-argentina-vs-inggris.jpg", 02.00 WIB  INGGRIS VS ARGENTINA CH1 (TVRI)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
