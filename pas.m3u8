@@ -33,10 +33,3 @@ https://otte.cache.aiv-cdn.net/bom-nitro/live/clients/dash/enc/w0rehjjrwe/out/v1
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/mJlclBBtBXkTtoM9JxiSFQEsQGI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2026-round-of-32-court-1-c50cd3.jpg", 07.00 WIB  JAPAN OPEN 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 http://moo7-restream2025.ddns.net:9091/Sport_tv_ts7/index.m3u8
-
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/mJlclBBtBXkTtoM9JxiSFQEsQGI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2026-round-of-32-court-1-c50cd3.jpg", 07.00 WIB  JAPAN OPEN  COURT 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836024550061_AiSD.m3u8?txSecret=d4a1c24da5304ca2f2f70190627a2b57&txTime=6A5802E0
-
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/mJlclBBtBXkTtoM9JxiSFQEsQGI=/640x360/filters:strip_icc():quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/daihatsu-japan-open-2026-round-of-32-court-1-c50cd3.jpg", 07.00 WIB  JAPAN OPEN  COURT 2
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4266836167426061_AiSD.m3u8?txSecret=388522019b44941358b97a7a68954c14&txTime=6A5802E0
