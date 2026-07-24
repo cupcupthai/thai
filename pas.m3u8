@@ -42,3 +42,8 @@ https://live1.streambylivepulse.com/live/channel61.m3u8
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #https://live1.streambylivepulse.com/live/channel63.m3u8
+
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/24/1784852508644_timor_-_vn_uhdi.png", 20.30 WIB VIETNAM VS TIMOR LESTE
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live3.procdnlive.com/livecdn/channel6.m3u8
