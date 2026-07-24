@@ -40,7 +40,12 @@ https://live1.streambylivepulse.com/live/channel61.m3u8
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #https://live1.streambylivepulse.com/live/channel63.m3u8
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/24/1784852508644_timor_-_vn_uhdi.png", 20.30 WIB VIETNAM VS TIMOR LESTE
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv3XwtvGqbKXLH4NH8sxr3KZbR8Mcf9TspWZpg1xJzpBWGbGlwLkfdKMk&s=10", 17.000 WIB MYANMAR VS MALAYSIA
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://timeshifting.rctiplus.id/live/eds/backup1/hft/backup1.m3u8
+
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/24/1784885386094_nhan-dinh-bong-da-lao-thai-lan-asean-championship-1784868719792793233086.jpeg", 20.000 WIB LAOS VS THAILAND
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://timeshifting.rctiplus.id/live/eds/backup2/hft/backup2.m3u8
