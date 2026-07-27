@@ -40,14 +40,21 @@ https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/arena.m3u8
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 #https://live1.streambylivepulse.com/live/channel63.m3u8
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQv3XwtvGqbKXLH4NH8sxr3KZbR8Mcf9TspWZpg1xJzpBWGbGlwLkfdKMk&s=10", 17.000 WIB MYANMAR VS MALAYSIA
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://www.ujungjari.com/wp-content/uploads/2026/07/1785113207811_anh-thump-singapore-vs-timor-leste-jpg-1024x538.jpg", 18.000 WIB SINGAPURA VS TIMOR LESTE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
 #https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/07/24/1784885386094_nhan-dinh-bong-da-lao-thai-lan-asean-championship-1784868719792793233086.jpeg", 20.000 WIB LAOS VS THAILAND
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://pict.sindonews.com/size/640/salsabila/slider/2026/07/33611/timnas-indonesia-vs-kamboja-di-piala-aff-2026-target-garuda-start-sempurna-hml.jpg", 20.30 WIB INDONESIA VS CAMBODIA
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://timeshifting.rctiplus.id/live/eds/backup2/hft/backup2.m3u8
+
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://pict.sindonews.com/size/640/salsabila/slider/2026/07/33611/timnas-indonesia-vs-kamboja-di-piala-aff-2026-target-garuda-start-sempurna-hml.jpg", 20.30 WIB INDONESIA VS CAMBODIA CH2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/150.0.0.0 Safari/537.36 Edg/150.0.0.0
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=911e72adf36946afbdbb4f80782a8394:08aec548a851ba64b7172ae7f05cb91c
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
