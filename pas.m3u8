@@ -20,7 +20,7 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/29/29.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ae986b6dd3d84b2bb868c8765c604815:89bf3c85580249d5bac4d3edaec019ec
-https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
+#https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/RBPjRjv-Ew08Cc3s1c6oRVNslPM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2026-round-of-32-court-1-10d706.jpg", 08.00 WIB CHINA OPEN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
@@ -28,12 +28,17 @@ https://udn-streamer1.cdn.3bbtv.com:8443/3bb/live/25/25.mpd
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/RBPjRjv-Ew08Cc3s1c6oRVNslPM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2026-round-of-32-court-1-10d706.jpg", 08.00 WIB CHINA OPEN
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
-https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/arena.m3u8
+#https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/arena.m3u8
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/RBPjRjv-Ew08Cc3s1c6oRVNslPM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2026-round-of-32-court-1-10d706.jpg", 08.00 WIB CHINA OPEN COURT1
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/DDbx2ZSiooifUzMVOMFmQqo86XA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5216965/f91931.png", 08.00 WIB TAIWAN OPEN COURT1
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
-#https://live1.streambylivepulse.com/live/channel61.m3u8
+https://live1.streambylivepulse.com/live/channel61.m3u8
+
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/DDbx2ZSiooifUzMVOMFmQqo86XA=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5216965/f91931.png", 08.00 WIB TAIWAN OPEN COURT2
+#EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com
+#EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
+https://live1.streambylivepulse.com/live/channel61.m3u8
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/RBPjRjv-Ew08Cc3s1c6oRVNslPM=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/18249/victor-china-open-2026-round-of-32-court-1-10d706.jpg", 08.00 WIB CHINA OPEN COURT2
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com
