@@ -49,16 +49,21 @@ https://live1.streambylivepulse.com/live/channel62.m3u8
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 #https://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://cdn1-production-images-kly.akamaized.net/8OXP5k4O0HT6JI5x7D7hubnvmy0=/800x450/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/9308810/original/080494400_1785203179-Timor_Leste_Vs_Indonesia.jpg", 17.000 WIB INDONESIA VS TIMOR LESTE CH2
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/monomax.m3u8
-
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=91b9592c819246c68b3b08a1fe08ba22:fa0d80dfd865b34077bae44cd4a0c5e6
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://karyailmiah.id/wp-content/uploads/2026/07/ChatGPT-Image-Jul-28-2026-09_59_03-PM.png", 20.00 WIB MALAYSIA VS THAILAND
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
+https://ayo.maling.pl/V/vision/id=113.cok.mpd
+
+
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://karyailmiah.id/wp-content/uploads/2026/07/ChatGPT-Image-Jul-28-2026-09_59_03-PM.png", 20.00 WIB MALAYSIA VS THAILAND CH2
 #EXTVLCOPT:http-user-agent=Plus-Official-Box
 https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/monomax.m3u8
 
