@@ -61,7 +61,7 @@ https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/monomax.m3u8
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/08/1280x720/prediksi-piala-aff_8226f8d.jpg", 20.30 WIB INDONESIA VS VIETNAM CH1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/08/1280x720/prediksi-piala-aff_8226f8d.jpg", 20.30 WIB INDONESIA VS VIETNAM CH2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
@@ -71,6 +71,10 @@ https://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
 https://d3b0v7fggu5zwm.cloudfront.net/out/v1/d2c68a3dfb644808b416bd90dcc92d5f/index.mpd
 
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/08/1280x720/prediksi-piala-aff_8226f8d.jpg", 20.30 WIB INDONESIA VS VIETNAM CH3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.textliveupdaterz.com/
+https://live2.streambylivepulse.com/live/channel1.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
