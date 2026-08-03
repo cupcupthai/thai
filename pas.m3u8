@@ -54,7 +54,11 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://karyailmiah.id/wp-content/uploads/2026/07/ChatGPT-Image-Jul-28-2026-09_59_03-PM.png", 20.00 WIB MALAYSIA VS THAILAND
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://karyailmiah.id/wp-content/uploads/2026/07/e4f7ebbf-7e1a-4f9c-873f-31aa3953b40e.png", 17.00 WIB COMBOJA VS TIMOR LESTE
+#EXTVLCOPT:http-user-agent=Plus-Official-Box
+https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/monomax.m3u8
+
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/08/1280x720/prediksi-piala-aff_8226f8d.jpg", 20.30 WIB INDONESIA VS VIETNAM CH1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-G9980) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Mobile Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -62,10 +66,11 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 #KODIPROP:inputstream.adaptive.license_key=https://ayo.maling.pl/V/vision/id=113.play
 https://ayo.maling.pl/V/vision/id=113.cok.mpd
 
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/08/1280x720/prediksi-piala-aff_8226f8d.jpg", 20.30 WIB INDONESIA VS VIETNAM CH2
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://beetv.my.id/stream/rctiplus.m3u8?ch=rcti
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://karyailmiah.id/wp-content/uploads/2026/07/ChatGPT-Image-Jul-28-2026-09_59_03-PM.png", 20.00 WIB MALAYSIA VS THAILAND CH2
-#EXTVLCOPT:http-user-agent=Plus-Official-Box
-https://raw.githubusercontent.com/cupcupthai/thai/refs/heads/main/monomax.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d418f733ed224f9bb9c2b1589db22a20:6ed6fe26daa4b926810869ff60254ebb
