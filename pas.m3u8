@@ -54,15 +54,8 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 9; SM-A730F Build/PPR1.180610.011) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 #https://tglmp04.akamaized.net/out/v1/400fc0702dee453bb33ebcc29466e58a/manifest.mpd
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/aKwjmhmbZIx17m7LHY-vhXurIws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5251272/dc3fc8.jpg", 20.00 WIB PERSIB VS PERSEBAYA ch1
-#EXTVLCOPT:network-caching=150
-#EXTVLCOPT:live-caching=150
-#EXTVLCOPT:http-origin=https://rakuda.infosport.web.id/
-#EXTVLCOPT:http-referrer=https://rakuda.infosport.web.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-https://cdnb.rkda.my.id/memfs/3897b566-43d7-4f1e-862b-1aa22932504a_output_0.m3u8
 
-#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/aKwjmhmbZIx17m7LHY-vhXurIws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5251272/dc3fc8.jpg", 20.00 WIB PERSIB VS PERSEBAYA ch2
+#EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://thumbor.prod.vidiocdn.com/aKwjmhmbZIx17m7LHY-vhXurIws=/640x360/filters:strip_icc():quality(70)/vidio-media-production/uploads/livestreaming/schedule/thumbnail/5251272/dc3fc8.jpg", 20.00 WIB PERSIB VS PERSEBAYA
 #EXTVLCOPT:http-referrer=https://xlz.buzzscorelinez.com
 #EXTVLCOPT:user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64)
 https://live2.streambylivepulse.com/live/channel1.m3u8
