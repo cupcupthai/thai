@@ -68,6 +68,8 @@ https://cri-streamer3.cdn.3bbtv.com:8443/3bb/live/31/31.mpd
 
 #EXTINF:-1 group-title="EVENT LIVE SPORTS" tvg-logo="https://mediata.id/wp-content/uploads/2026/08/Ist-2026-1-23-700x530.jpg", 20.00 WIB INDONESIA VS SINGAPORE CH1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/149.0.0.0 Safari/537.36
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://timeshifting.rctiplus.id/live/eds/backup1/hft/backup1.m3u8
 
 
