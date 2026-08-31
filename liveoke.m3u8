@@ -18,6 +18,10 @@ https://live05.meung.app/live/59444581.m3u8|User-Agent=Mozilla%2F5.0%20%28Window
 #EXTINF:-1 tvg-logo="https://ayo.maling.pl/thth/logo.php?h=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fa576eafbce762079f7d1f77fca1c5cc2.png&a=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F6581bc34692022be4c21d98778e33df0.png" group-title="EVENT LIVE SPORTS", 17:00 WIB Lebanon U20 vs Hàn Quốc U20 
 https://live05.meung.app/live/75915087.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
 
+#EXTINF:-1 tvg-logo="https://vstatic.vietnam.vn/vietnam/resource/IMAGE/2026/08/31/1788109435461_toi-318-u20-vie-nam-se-da-tran-dau-tien-1788099485762425446898.jpeg" group-title="EVENT LIVE SPORTS", 19:00 WIB VIETNAM U20 vs KOREA UTARA U20
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv//
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://ayo.maling.pl/thth/logo.php?h=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F2d8fe42de2f833581faa077f788329fa.png&a=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fbac641a0e4582c0aa8151fa9840685ac.png" group-title="EVENT LIVE SPORTS", 19:00 WIB Australia U20 vs Laos U20
 https://live05.meung.app/live/16226575.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
