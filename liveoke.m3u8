@@ -3,13 +3,10 @@ EXTM3U
 #EXTINF:-1 tvg-logo="https://ayo.maling.pl/thth/logo.php?h=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fbac641a0e4582c0aa8151fa9840685ac.png&a=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F27ccfee3175cfd39775e04a25c2a6b81.png" group-title="EVENT LIVE SPORTS", 20:00 Laos U20 vs Indonesia U20
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
-https://live2.domainkqt.cc/live/channel18.m3u8
+#https://live2.domainkqt.cc/live/channel18.m3u8
 
-#EXTINF:-1 tvg-logo="https://ayo.maling.pl/thth/logo.php?h=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F72fb22982ac69857cb2432f13589836e.png&a=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F14b75c2d38d88b747c19de8ea5509d16.png" group-title="EVENT LIVE SPORTS", 19:00 Palestine U20 vs Vietnam U20
-https://live05.meung.app/live/33982309.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
+#EXTINF:-1 tvg-logo="https://multiprestasimas.co.id/wp-content/uploads/2026/08/Prediksi-Arema-FC-vs-Adhyaksa-4-September-2026.jpg" group-title="EVENT LIVE SPORTS", Arema Malang vs Adhyaksa FC Banten
+https://live05.meung.app/live/87379114.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
 
-#EXTINF:-1 tvg-logo="https://ayo.maling.pl/thth/logo.php?h=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F31d64389a45aaeb7a61c9b76b72be555.png&a=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2Fa316e183f97c855329d46a764c3b8b64.png" group-title="EVENT LIVE SPORTS", 19:00 Cambodia U20 vs Nhật Bản U20
-https://live05.meung.app/live/16226575.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
-
-#EXTINF:-1 tvg-logo="https://ayo.maling.pl/thth/logo.php?h=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F5ca0e8e9bb2c0a3625473442552c291c.png&a=https%3A%2F%2Fimg.gvapi.cc%2Ffootball%2Fteam%2F43b2dd1c93748297cfbbea4d31247641.png" group-title="EVENT LIVE SPORTS", 19:30 Turkmenistan U20 vs Thailand U20
-https://live05.meung.app/live/19919577.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
+#EXTINF:-1 tvg-logo="https://cdn1-production-images-kly.akamaized.net/af0DD3m8bpRwLHHQ4fi66XH2O6s=/1200x1200/smart/filters:quality(75):strip_icc():format(webp)/kly-media-production/medias/4486437/original/065567000_1688102450-BRI_Liga_1-_Bali_United_Vs_PSS_Sleman_copy.jpg" group-title="EVENT LIVE SPORTS", Bali United vs CLB PSS Sleman
+https://live05.meung.app/live/99121525.m3u8|User-Agent=Mozilla%2F5.0%20%28Windows%20NT%2010.0%3B%20Win64%3B%20x64%29%20AppleWebKit%2F537.36%20%28KHTML%2C%20like%20Gecko%29%20Chrome%2F114.0.0.0%20Safari%2F537.36&Referer=https%3A%2F%2Fcolatv99.live
