@@ -1,18 +1,9 @@
 EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.liga.id/wp-content/uploads/2026/09/java-united-vs-garudayaksa-350x197.jpg" group-title="EVENT LIVE SPORTS", 15:30 Maluku Utara VS Garuda Yaksa
-https://live05.meung.app/live/07808742.m3u8
-
-#EXTINF:-1 tvg-logo="https://www.rmoljawatengah.id/uploads/images/2026/09/image_750x500_6a9bcea774fad.jpg" group-title="EVENT LIVE SPORTS", 16:00 Australia U20 vs Indonesia U20
-#EXTVLCOPT:http-origin=https://livetv.rkda.my.id
-#EXTVLCOPT:http-referrer=https://livetv.rkda.my.id
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 13; SM-M127F) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/151.0.7922.199 Mobile Safari/537.36
-http://mkctvnew.my.id/timnas.m3u8
-
 #EXTINF:-1 tvg-logo="https://www.rmoljawatengah.id/uploads/images/2026/09/image_750x500_6a9bcea774fad.jpg" group-title="EVENT LIVE SPORTS", 16:00 Australia U20 vs Indonesia U20 ch2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://xl365.drovaxcontentdelivery.com/
-https://live2.domainkqt.cc/live/channel10.m3u8
+#https://live2.domainkqt.cc/live/channel10.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdns.klimg.com/bola.net/library/upload/24/2026/09/1280x720/prediksi-persib-vs-p_076cb22.jpg" group-title="EVENT LIVE SPORTS", 19:00 WIB PERSIB VS PSM
 #EXTVLCOPT:http-origin=https://livetv.rkda.my.id
@@ -26,7 +17,7 @@ https://live05.meung.app/live/08552895.m3u8
 #EXTINF:-1 tvg-logo="https://s.yimg.com/lo/mysterio/api/cd54973dbb44a56acf4613b054a08b80a0ff06e90d97f851bf45c2e349490b47/lightyear_networkapi/resizefit_w620_h413%3Bquality_80%3Bformat_webp/https%3A%2F%2Fmedia.zenfs.com%2Fen%2Fplaymakerstats_articles_264%2F08a0bb155dfee4aebea2d34347abc470.jpg" group-title="EVENT LIVE SPORTS", 21:15 VALENCIA VS BARCELONA
 https://hls.lauthaitv.cc/live/valen-barce-laliga/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://mediata.id/wp-content/uploads/2026/09/11-13.jpg" group-title="EVENT LIVE SPORTS", 20:00 ARSENAL VS CHELSEA
+#EXTINF:-1 tvg-logo="https://mediata.id/wp-content/uploads/2026/09/11-13.jpg" group-title="EVENT LIVE SPORTS", 22:30 ARSENAL VS CHELSEA
 https://hls.lauthaitv.cc/live/ars-che-prem/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://www.vidio.com/blog/wp-content/uploads/sites/2/elementor/thumbs/ATK_SERIE-A-2026-1-rsz0kjb6oxk0uhyal1depfrw8qn4uaoqz4421kv5e6.png" group-title="EVENT LIVE SPORTS", 01:45 JUVE VS MILAN
